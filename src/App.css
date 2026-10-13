@@ -81,3 +81,35 @@
   text-align: right;
   margin-right: 20%;
 }
+
+.sign-in form{
+  width: 30%;
+  margin: 20px auto;
+}
+
+.sign-in form input{
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 16px;
+}
+
+.sign-in form button{
+  width: 100%;
+  padding: 8px 12px;
+  margin-left: 3%;
+}
+
+.header .logoutbutton {
+  background: transparent;
+  border: none;
+  padding: 0;
+  color: #e1ffff;
+  margin: 0 16px;
+  font: inherit;
+  letter-spacing: inherit;
+  cursor: pointer;
+}
+
+.header .logoutbutton:hover {
+  color: #eee;
+}
